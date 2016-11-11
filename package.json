@@ -1,0 +1,23 @@
+{
+  "name": "lmv-navigation",
+  "version": "1.0.0",
+  "main": "server.js",
+  "description": "Demonstrates how to coordinate navigation across 2D and 3D views",
+  "author": {
+    "name": "Maxim Gurkin",
+    "email": "redmax3d@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redcraft/lmv-navigation"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "2D/3D Navigation",
+  "description": "Demonstrates how to coordinate navigation across 2D and 3D views",
+  "repository": "https://github.com/redcraft/lmv-navigation",
+  "keywords": ["Autodesk", "LMV", "viewer", "navigation"]
+}
