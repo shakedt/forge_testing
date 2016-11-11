@@ -6,7 +6,7 @@ app.use('/', express.static(__dirname + '/www'));
 
 app.get('/api/auth', function (req, authRes) {
     var options = {
-        host: 'sleepy-river-3525.herokuapp.com',
+        host: 'hidden-cove-66424.herokuapp.com',
         path: '/api/token',
         method: 'GET'
     };
