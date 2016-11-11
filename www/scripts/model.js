@@ -93,7 +93,7 @@ function loadDocument (urnStr, cb3d, cb2d) {
         // disable panel while loading document
     panelDisabled = true;
 
-    var urn = "urn:" + 'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bW9kZWwyMDE2LTEwLTA0LTE5LTU4LTQ2LWJyd2gzc2l2aWVnMDdhZTV4cnV0NWt1ZGY1cmQvR2F0ZUhvdXNlLm53ZA';//urnStr;
+    var urn = "urn:" + 'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bW9kZWwyMDE2LTExLTExLTEyLTQxLTA3LXlldmJwbHl0Yzkya3Y2cGtqdW10Z2F5ZnJ3dTAvUkEtUy1CdWlsZGluZy5ydnQ';//urnStr;
     Autodesk.Viewing.Document.load(urn,
 
         // onSuccessCallback
