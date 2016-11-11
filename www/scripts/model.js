@@ -3,7 +3,7 @@
   //  { id: "racsimple", label: "Revit House", urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bW9kZWwyMDE2LTEwLTA0LTE5LTU4LTQ2LWJyd2gzc2l2aWVnMDdhZTV4cnV0NWt1ZGY1cmQvR2F0ZUhvdXNlLm53ZA"},
     //{ id: "racadvanced", label: "Revit School", urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bW9kZWwyMDE1LTA3LTI5LTIxLTEwLTQzLXdxbWpzN3FyZXN0dGtxYXV3NGdxa3phanZoZG8vcmFjX2FkdmFuY2VkX3NhbXBsZV9wcm9qZWN0LnJ2dA=="}
 //];
-var viewModels = [{ id: "racsimple", label: "Revit House", urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bW9kZWwyMDE2LTEwLTA4LTAyLTA0LTE0LWZza3Jsa3FqbmpibGc5bGFuOGh4aDJ5eGhkbGMvR2F0ZUhvdXNlLm53ZA"}];
+var viewModels = [{ id: "racsimple", label: "Revit House", urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bW9kZWwyMDE2LTExLTExLTEyLTQxLTA3LXlldmJwbHl0Yzkya3Y2cGtqdW10Z2F5ZnJ3dTAvUkEtUy1CdWlsZGluZy5ydnQ"}];
 var currentModel = 0;
 
 var viewer3D;
